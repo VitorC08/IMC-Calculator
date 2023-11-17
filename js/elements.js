@@ -1,0 +1,5 @@
+export const inputWeight = document.getElementById('weight')
+export const inputHeight = document.getElementById('height') 
+export const showModalIMC = document.querySelector('.modal')
+export const btnClose = document.getElementById('close')
+export const errorAlert = document.querySelector('.modal-error')
